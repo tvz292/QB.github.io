@@ -1,0 +1,36 @@
+html,body{
+	width: 100%;
+	height: 100%;
+}
+header.kaku {
+	background-image: url(/img/Qbi2.jpg);
+	background-size: cover;
+	background-position: center center;
+	height: 100%;
+	/*background-repeat: round;*/  
+	}
+hr.orangeline {
+  width: 65px;
+  border:1px solid #F05F44;
+}
+header.kaku hr {
+  margin-top: 200px;
+  margin-bottom: 30px; 
+}
+.btn-xl {
+  padding: 1rem 2rem; 
+}
+.btn{
+  border-radius: 30px;
+  text-transform: uppercase;
+}
+.btn-primary{
+  background-color: #F05F44;
+  border-color: #F05F44;
+}
+.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 2px;
+  cursor: pointer;
+}
